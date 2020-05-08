@@ -1,43 +1,660 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
    <url>
-
-      <loc>http://www.worldstatsinfo.com/</loc>
-
-      <lastmod>2020-3-24</lastmod>
-
-      <changefreq>daily</changefreq>
-
-      <priority>1</priority>
-
+      <loc>https://worldstatsinfo.com/</loc>
    </url>
-
    <url>
-
-      <loc>http://www.worldstatsinfo.com/symptoms</loc>
-
-      <changefreq>weekly</changefreq>
-
+      <loc>https://worldstatsinfo.com/symptoms</loc>
    </url>
-
    <url>
-
-      <loc>http://www.worldstatsinfo.com/precautions</loc>
-
-      <changefreq>weekly</changefreq>
-
+      <loc>https://worldstatsinfo.com/precautions</loc>
    </url>
-
    <url>
-
-      <loc>http://worldstatsinfo.com/dos</loc>
-
-      <lastmod>2020-03-24T11:04:57+00:00</lastmod>
-
-      <priority>0.5</priority>
-
+      <loc>https://worldstatsinfo.com/blog/World-stats-info</loc>
    </url>
-
+   <url>
+      <loc>https://worldstatsinfo.com/blog/Reforming-WHO-can-be-done-after-the-pandemic-ends:-India</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Afghanistan</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Albania</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Algeria</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Andorra</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Angola</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Anguilla</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Antigua and Barbuda</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Argentina</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Armenia</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Aruba</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Australia</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Austria</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Azerbaijan</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Bahamas</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Bahrain</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Bangladesh</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Barbados</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Belarus</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Belgium</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Belize</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Benin</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Bermuda</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Bhutan</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Bolivia</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Bosnia</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Botswana</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Brazil</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/British Virgin Islands</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Brunei</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Bulgaria</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Burkina Faso</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Burundi</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Cabo Verde</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Cambodia</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Cameroon</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Canada</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Caribbean Netherlands</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Cayman Islands</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Central African Republic</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Chad</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Channel Islands</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Chile</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/China</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Colombia</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Comoros</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Congo</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Costa Rica</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Croatia</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Cuba</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Curaçao</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Cyprus</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Czechia</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Côte d'Ivoire</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/DRC</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Denmark</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Diamond Princess</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Djibouti</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Dominica</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Dominican Republic</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Ecuador</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Egypt</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/El Salvador</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Equatorial Guinea</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Eritrea</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Estonia</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Ethiopia</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Falkland Islands (Malvinas)</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Faroe Islands</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Fiji</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Finland</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/France</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/French Guiana</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/French Polynesia</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Gabon</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Gambia</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Georgia</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Germany</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Ghana</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Gibraltar</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Greece</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Greenland</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Grenada</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Guadeloupe</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Guatemala</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Guinea</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Guinea-Bissau</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Guyana</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Haiti</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Holy See (Vatican City State)</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Honduras</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Hong Kong</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Hungary</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Iceland</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/India</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Indonesia</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Iran</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Iraq</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Ireland</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Isle of Man</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Israel</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Italy</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Jamaica</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Japan</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Jordan</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Kazakhstan</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Kenya</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Kuwait</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Kyrgyzstan</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Lao People's Democratic Republic</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Latvia</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Lebanon</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Liberia</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Libyan Arab Jamahiriya</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Liechtenstein</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Lithuania</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Luxembourg</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/MS Zaandam</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Macao</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Macedonia</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Madagascar</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Malawi</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Malaysia</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Maldives</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Mali</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Malta</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Martinique</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Mauritania</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Mauritius</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Mayotte</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Mexico</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Moldova</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Monaco</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Mongolia</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Montenegro</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Montserrat</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Morocco</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Mozambique</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Myanmar</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Namibia</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Nepal</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Netherlands</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/New Caledonia</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/New Zealand</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Nicaragua</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Niger</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Nigeria</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Norway</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Oman</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Pakistan</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Palestine</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Panama</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Papua New Guinea</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Paraguay</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Peru</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Philippines</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Poland</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Portugal</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Qatar</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Romania</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Russia</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Rwanda</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Réunion</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/S. Korea</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Saint Kitts and Nevis</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Saint Lucia</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Saint Martin</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Saint Pierre Miquelon</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Saint Vincent and the Grenadines</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/San Marino</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Sao Tome and Principe</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Saudi Arabia</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Senegal</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Serbia</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Seychelles</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Sierra Leone</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Singapore</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Sint Maarten</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Slovakia</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Slovenia</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Somalia</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/South Africa</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/South Sudan</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Spain</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Sri Lanka</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/St. Barth</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Sudan</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Suriname</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Swaziland</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Sweden</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Switzerland</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Syrian Arab Republic</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Taiwan</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Tajikistan</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Tanzania</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Thailand</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Timor-Leste</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Togo</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Trinidad and Tobago</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Tunisia</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Turkey</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Turks and Caicos Islands</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/UAE</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/UK</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/USA</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Uganda</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Ukraine</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Uruguay</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Uzbekistan</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Venezuela</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Vietnam</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Western Sahara</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Yemen</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Zambia</loc>
+   </url>
+   <url>
+      <loc>https://worldstatsinfo.com/countries/Zimbabwe</loc>
+   </url>
 </urlset>
