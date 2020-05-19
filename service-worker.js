@@ -14,20 +14,12 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-<<<<<<< HEAD
-  "/precache-manifest.da330278f0ff5272ba8f85659f107b55.js"
-=======
-  "/precache-manifest.3746df5f24aa0a6acef5f311a96a1c30.js"
->>>>>>> e3322defc35a5bad2fe0b102308c3e2058822b1c
+  "/precache-manifest.a3cefa6072d95afb3a3149e9512cec95.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "corona"});
 
-self.addEventListener('message', (event) => {
-  if (event.data && event.data.type === 'SKIP_WAITING') {
-    self.skipWaiting();
-  }
-});
+workbox.core.skipWaiting();
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
